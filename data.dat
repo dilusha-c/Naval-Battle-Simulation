@@ -1,0 +1,380 @@
+
+	 Escort ship
+Number of escort ship: 12
+Escort ship id: 0, type: C
+Position coordinates x: 8, y: 22
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 1, type: E
+Position coordinates x: 10, y: 30
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 2, type: B
+Position coordinates x: 10, y: 2
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 3, type: B
+Position coordinates x: 15, y: 19
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 4, type: B
+Position coordinates x: 11, y: 29
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 5, type: E
+Position coordinates x: 6, y: 20
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 6, type: E
+Position coordinates x: 25, y: 25
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 7, type: D
+Position coordinates x: 2, y: 3
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 8, type: C
+Position coordinates x: 7, y: 20
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 9, type: B
+Position coordinates x: 11, y: 21
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 10, type: C
+Position coordinates x: 29, y: 27
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 11, type: E
+Position coordinates x: 10, y: 6
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+	 Battleship
+Battleship type : M
+Battleship Time take to between tow firing, 6
+Battleship initial position coordinates x: 20, y: 16
+Battleship traveled point coordinate: 
+position 1 coordinates x: 14, y: 14
+position 2 coordinates x: 11, y: 20
+Velocity of shell minimum: 0, maximum: 122
+Battle ship maximum Range: 1400
+Battleship gama value: 0.04
+---------------------------C--
+------------------------------
+------------------------------
+------------------------------
+-------------------------E----
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+----------------*---#---------
+------------------------------
+------------------------------
+------------------------------
+------------------------------
+-------------------B----------
+--------------*---------------
+------------------------------
+------------------------------
+E-------------------*B-------B
+--B---E-----------------------
+------------------------------
+----------------------C-------
+--------------------C---------
+--------------------E---------
+------------------------------
+------------------------------
+------------------------------
+---D--------------------------
+------------------------------
+------------------------------
+A,B,C,D,E represent Escort ship
+'#' represent Battle ship starting position
+'*' - Battle ship traveling point
+
+Gun on the battle ship get jammed jammed at second travel point of battleship. Now Battle ship minimum attacking angle is:27
+
+11 escort ship get hit by battleship.
+Battle end in:52.04
+Battle ship remaining health: 31
+Battleship attacking order, shank E id(type notation): 3 (B),6 (E),9 (B),0 (C),5 (E),8 (C),10 (C),11 (E),2 (B),1 (E),4 (B),
+
+	 Escort ship
+Number of escort ship: 22
+Escort ship id: 0, type: D
+Position coordinates x: 5, y: 6
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 1, type: D
+Position coordinates x: 24, y: 19
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 2, type: D
+Position coordinates x: 18, y: 10
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 3, type: E
+Position coordinates x: 19, y: 10
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 4, type: D
+Position coordinates x: 7, y: 17
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 5, type: D
+Position coordinates x: 26, y: 16
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 6, type: C
+Position coordinates x: 22, y: 4
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 7, type: B
+Position coordinates x: 29, y: 23
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 8, type: A
+Position coordinates x: 12, y: 12
+Impact power: 0.08
+Time take to between tow firing: 9
+Shooting angle minimum: 43, maximum: 63nVelocity of shell minimum : 83, maximum: 146
+Minimum range: 500, maximum range: 2100
+Gama value: 0.14
+
+Escort ship id: 9, type: A
+Position coordinates x: 11, y: 19
+Impact power: 0.08
+Time take to between tow firing: 9
+Shooting angle minimum: 43, maximum: 63nVelocity of shell minimum : 83, maximum: 146
+Minimum range: 500, maximum range: 2100
+Gama value: 0.14
+
+Escort ship id: 10, type: C
+Position coordinates x: 18, y: 23
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 11, type: D
+Position coordinates x: 1, y: 16
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 12, type: C
+Position coordinates x: 8, y: 1
+Impact power: 0.07
+Time take to between tow firing: 17
+Shooting angle minimum: 41, maximum: 66nVelocity of shell minimum : 77, maximum: 94
+Minimum range: 400, maximum range: 800
+Gama value: 0.11
+
+Escort ship id: 13, type: A
+Position coordinates x: 16, y: 21
+Impact power: 0.08
+Time take to between tow firing: 9
+Shooting angle minimum: 43, maximum: 63nVelocity of shell minimum : 83, maximum: 146
+Minimum range: 500, maximum range: 2100
+Gama value: 0.14
+
+Escort ship id: 14, type: B
+Position coordinates x: 1, y: 26
+Impact power: 0.06
+Time take to between tow firing: 18
+Shooting angle minimum: 37, maximum: 67nVelocity of shell minimum : 63, maximum: 111
+Minimum range: 200, maximum range: 1200
+Gama value: 0.10
+
+Escort ship id: 15, type: E
+Position coordinates x: 26, y: 21
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 16, type: E
+Position coordinates x: 19, y: 12
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 17, type: D
+Position coordinates x: 20, y: 8
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+Escort ship id: 18, type: E
+Position coordinates x: 1, y: 19
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 19, type: E
+Position coordinates x: 14, y: 28
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 20, type: E
+Position coordinates x: 20, y: 15
+Impact power: 0.04
+Time take to between tow firing: 10
+Shooting angle minimum: 11, maximum: 81nVelocity of shell minimum : 57, maximum: 106
+Minimum range: 100, maximum range: 1100
+Gama value: 0.12
+
+Escort ship id: 21, type: D
+Position coordinates x: 2, y: 15
+Impact power: 0.05
+Time take to between tow firing: 12
+Shooting angle minimum: 23, maximum: 73nVelocity of shell minimum : 68, maximum: 95
+Minimum range: 200, maximum range: 900
+Gama value: 0.15
+
+	 Battleship
+Battleship type : U
+Battleship Time take to between tow firing, 6
+Battleship initial position coordinates x: 13, y: 12
+Battleship traveled point coordinate: 
+position 1 coordinates x: 12, y: 13
+position 2 coordinates x: 17, y: 20
+position 3 coordinates x: 16, y: 18
+Velocity of shell minimum: 0, maximum: 122
+Battle ship maximum Range: 1400
+Battleship gama value: 0.05
+-----------------------B------
+------------------------------
+------------------------------
+----------------D----E--------
+------------------------------
+-------------------D----------
+------------------------------
+----C-------------------------
+------------------------------
+--------D------E--------------
+----------E-E-----------------
+----------D------------C------
+--------------------*---------
+------------------*--A--------
+------------------------------
+----------------------------E-
+------------*#----------------
+------------A*----------------
+-------------------A----------
+------------------------------
+------------------------------
+-C----------------------------
+-----------------D------------
+------------------------------
+------D-----------------------
+------------------------------
+------------------------------
+---------------D--------------
+----------------D--E------B---
+------------------------------
+A,B,C,D,E represent Escort ship
+'#' represent Battle ship starting position
+'*' - Battle ship traveling point
+
+Gun on the battle ship get jammed jammed at second travel point of battleship. Now Battle ship minimum attacking angle is:0
+
+B is shank
+B shink at x: 13, y 12
+Battle end in:13.01
+Battleship attacking order, shank E id(type notation): 2 (D),3 (E),4 (D),9 (A),13 (A),16 (E),17 (D),20 (E),0 (D),1 (D),5 (D),6 (C),8 (A),10 (C),11 (D),12 (C),18 (E),21 (D),
+18 escort ship get hit by battleship.
